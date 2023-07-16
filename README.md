@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 DISCLAIMER !! 
-Ini merupakan project yang dibuat oleh Erizal Ariyanto Wibowo berdasarkan dengan pengalaman kerja saya selama ini sebagi Helpdesk Kelas di Digitalent KOMINFO. Dimohon untuk tidak mengcopy maupun menyebarkan dan membuat ulang tanpa izin. Terimakasih.
+Ini merupakan project yang dibuat oleh Erizal Ariyanto Wibowo untuk kebutuhan pembuatan sistem pembelajaran ekspor pada CV. Vindo Coco. Dimohon untuk tidak mengcopy maupun menyebarkan dan membuat ulang tanpa izin. Terimakasih.
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
